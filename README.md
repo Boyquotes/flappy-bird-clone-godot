@@ -1,2 +1,2 @@
-# flappy bird clone godot
- A flappy bird clone created in Godot
+# Flappy Bird Clone in Godot
+ To run it just clone this repository and import the project using Godot Engine.
